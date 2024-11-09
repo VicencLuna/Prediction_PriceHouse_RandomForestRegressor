@@ -33,7 +33,7 @@ This project uses a Random Forest Regressor to predict house prices based on var
 
 2. Run the script:
    ```
-   python house_price_prediction.py
+   python house-stats-analysis.py
    ```
 
 3. The script will:
