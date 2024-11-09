@@ -55,7 +55,7 @@ This project uses a Random Forest Regressor to predict house prices based on var
 - `temp.csv`: Preprocessed training data
 - `matriz_correlacion`: Correlation matrix
 - `df_new.csv`: Preprocessed test data
-PREDICTION: - `predicciones_rf.csv`: Final predictions
+- PREDICTION: - `predictions_xgb.csv`: Final predictions
 
 ## Code Structure
 
@@ -82,7 +82,7 @@ To modify the model's behavior:
 
 ## Results
 
-The script outputs: predicciones_xgb.csv
+The script outputs: predictions_xgb.csv
 - Model performance metrics
 - Feature importance ranking
 - Predictions for test data
